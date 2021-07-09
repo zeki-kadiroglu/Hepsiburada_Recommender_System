@@ -1,5 +1,6 @@
 # Hepsiburada_Recommender_System
-pip install gensim ==3.8.3 NOT 4.0
+- ATTENTION
+- pip install gensim ==3.8.3 NOT 4.0
 
 
 
