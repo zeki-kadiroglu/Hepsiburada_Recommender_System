@@ -10,6 +10,7 @@
 -  docker build -t CONTAINERNAME .
 -  docker run -it -d -p 80:81 CONTAINERNAME
 - P.S. you can adjust your port name in dockerfile and in your Virtual Machine.
+- Now it is working AWS EC2 ubuntu free tier
 
 # POSTMAN REQUESTS
 - POSTMAN documentation link ------------>> https://www.getpostman.com/collections/7a0ed085bf1d71f9ff5b
