@@ -9,4 +9,4 @@
 
 -  docker build -t CONTAINERNAME .
 -  docker run -it -d -p 80:81 CONTAINERNAME
-- P.S. you can adjust your port name in dockerfile and your Virtual Machine
+- P.S. you can adjust your port name in dockerfile and in your Virtual Machine.
