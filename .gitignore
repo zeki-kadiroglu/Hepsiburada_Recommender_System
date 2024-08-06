@@ -1,0 +1,6 @@
+.idea
+__pycache__
+main
+Include/site/python3.7/greenlet
+Lib/site-packages
+Scripts
